@@ -1,7 +1,9 @@
 body {
-  background-color: #121111a9;
-  font-family: Tajawal;
-  text-align: center;
+  background-color: #f0f0f0; /* لون خلفية الصفحة */
+  font-family: Arial, sans-serif; /* نوع الخط */
+  text-align: center; /* محاذاة النصوص */
+  margin: 0; /* إزالة الهوامش الافتراضية */
+  padding: 0; /* إزالة الفراغات الافتراضية */
 }
 
 h1 {
